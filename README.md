@@ -27,9 +27,7 @@ const albin = {
 <a href="https://instagram.com/albin._.thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albin._.thomas" height="30" width="40" /></a>
 </p>
 
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1Z2o0bDZpZmMyNTFiYmQ0OGI1M2d5a3N6bWIwYjJyMTIzYnZ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
