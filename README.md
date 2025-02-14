@@ -7,9 +7,18 @@
 
 - 📫 How to reach me **albinthomas6210@gmail.com**
 
-### Blogs posts
+### Just Me
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+#### A little more about me
+```javascript
+const albin = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Bootstrap", "HTML", "CSS"],
+  askMeAbout: ["Artist","designer"]
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
