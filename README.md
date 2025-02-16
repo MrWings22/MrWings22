@@ -12,13 +12,13 @@
 
 ---
 #### A little more about me
-javascript
+```javascript
 const albin = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Bootstrap", "HTML", "CSS"],
   askMeAbout: ["Technologies", "Space", "Movies"]
 }
-
+```
 ### ⚡ Tech Stack
 
 **💻 Programming & Markup:**  
