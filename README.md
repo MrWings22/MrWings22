@@ -16,7 +16,7 @@ javascript
 const albin = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Bootstrap", "HTML", "CSS"],
-  askMeAbout: ["Artist","designer"]
+  askMeAbout: ["Technologies", "Space", "Movies"]
 }
 
 ### ⚡ Tech Stack
